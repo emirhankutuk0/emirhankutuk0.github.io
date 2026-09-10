@@ -1,0 +1,4 @@
+.codex/
+.omp/
+.env
+.env.*
