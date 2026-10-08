@@ -8,16 +8,16 @@ Ankara Üniversitesi Bilgisayar Programcılığı öğrencisi olarak projelerimi
 
 - HTML5, CSS3 ve vanilla JavaScript
 - JetBrains Mono (Google Fonts)
-- HTML içine gömülü Simple Icons SVG ikonları
+- Projeler ve öğrenme alanları için ikonlu teknoloji ve araç listesi
 - GitHub Pages ile ücretsiz HTTPS yayını
 
-Framework, npm paketi, backend veya derleme adımı yok. Sayfadaki Stack bölümü kişisel öğrenme alanlarını da gösterir; C# ve PostgreSQL bu sitenin altyapısında kullanılmaz.
+Framework, npm paketi, backend veya derleme adımı yok. Stack bölümü derslerde ve çalışmalarda kullanılan teknolojileri SVG simgeler ve kısa etiketlerle gösterir; C# ve PostgreSQL bu sitenin altyapısında kullanılmaz.
 
 ## Özellikler
 
 - Koyu terminal teması ve responsive düzen
 - Mobil açılır menü ve aktif bölüm takibi
-- Projeler, teknoloji kartları ve PDF sertifika bağlantıları
+- Projeler, ikonlu teknoloji ve araç listesi, PDF sertifika bağlantıları
 - E-posta ve GitHub iletişim bağlantıları
 - EK favicon, klavye odağı ve azaltılmış hareket tercihi desteği
 
@@ -33,7 +33,7 @@ Tarayıcıda [http://127.0.0.1:8765](http://127.0.0.1:8765) adresini aç. Sunucu
 
 ## Dosyalar
 
-- `index.html`: Sayfa içeriği, bağlantılar ve teknoloji ikonları
+- `index.html`: Sayfa içeriği, bağlantılar ve teknoloji/araç listesi
 - `style.css`: Tema ve responsive yerleşim
 - `script.js`: Mobil menü, aktif bölüm ve footer yılı
 - `favicon.svg`: Sekme simgesi
@@ -45,4 +45,4 @@ GitHub Pages, `main` dalının kök klasöründen yayın yapar. Bu dala gönderi
 
 ## Görsel kaynaklar
 
-Teknoloji ikonları [Simple Icons](https://simpleicons.org/) 11.15.0 sürümünden alınmıştır (CC0). Yazı tipi [JetBrains Mono](https://www.jetbrains.com/lp/mono/); EK favicon projeye özeldir.
+Stack ikonları Simple Icons SVG dosyalarından alınmıştır (CC0). Yazı tipi JetBrains Mono; EK faviconu özel tasarımdır.
